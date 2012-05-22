@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>qyxc</title>
+    <link>http://www.hefumuye.cn/Site/qyxc/qyxc.html</link>
+    <description>qyxc</description>
+    <item>
+      <title>Main Plant</title>
+      <link>http://www.hefumuye.cn/Site/qyxc/Pages/Main_Plant.html</link>
+      <guid isPermaLink="false">9f06e50a-e2ab-45dd-9742-0273fabee4af</guid>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://www.hefumuye.cn/Site/qyxc/Pages/Workshop.html</link>
+      <guid isPermaLink="false">e18cae90-283e-459f-9375-b724dadc4b6f</guid>
+    </item>
+    <item>
+      <title>Wood Dring Ground</title>
+      <link>http://www.hefumuye.cn/Site/qyxc/Pages/Wood_Dring_Ground.html</link>
+      <guid isPermaLink="false">8326e27d-b032-42bb-a45e-101569b9130e</guid>
+    </item>
+    <item>
+      <title>Sub-Factory</title>
+      <link>http://www.hefumuye.cn/Site/qyxc/Pages/Sub-Factory.html</link>
+      <guid isPermaLink="false">f65b328f-a10f-414a-9bb6-4d316e6cc346</guid>
+    </item>
+    <item>
+      <title>First Day</title>
+      <link>http://www.hefumuye.cn/Site/qyxc/Pages/First_Day.html</link>
+      <guid isPermaLink="false">df189658-297f-4d78-b6d2-d2e20ecefe93</guid>
+    </item>
+  </channel>
+</rss>
